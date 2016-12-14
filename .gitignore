@@ -1,0 +1,7 @@
+*.zip
+*.gl
+.ipynb*
+*train_data
+*test_data
+*externalData
+*backtrace*
